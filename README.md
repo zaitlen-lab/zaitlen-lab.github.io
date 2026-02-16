@@ -1,6 +1,6 @@
-# BCBG Website
+# Zaitlen Lab Website
 
 Test.
 
-Forked from https://github.com/mpa139/allanlab
+Forked from https://github.com/bcbg-bio/bcbg-bio.github.io/
 
